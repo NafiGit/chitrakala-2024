@@ -41,12 +41,12 @@ onMounted(()=>{
 
 <template>
   <div class="flex flex-col w-full h-full overflow-y-auto" style="scroll-snap-type: y mandatory;scroll-behavior: smooth;">
-    <div class="home-child" id="intro-view">
+    <!--<div class="home-child" id="intro-view">
       <PageOneView  ref="homeChild" />
-    </div>
+    </div>-->
     <div class="home-child"  id="about-view">
       <PageTwoView  ref="homeChild"/>
-    </div>
+    </div> 
     <div class="home-child"  id="theme-view">
       <PageThreeView  ref="homeChild"/>
     </div>
