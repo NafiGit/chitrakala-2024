@@ -104,19 +104,16 @@ const teams = [
             role: '',
             members:[
                     {
-                        name:'User 1',
-                        image:'https://i.postimg.cc/VL67rFYX/aishwariya.png',
-                        designation:'DEG 1'
+                        name:'Harsha Vardhan Polamarasetty',
+                        image:'https://i.postimg.cc/bqfCFJGM/Whats-App-Image-2024-02-11-at-19-15-52.jpg',
                     },
                     {
-                        name:'User 2',
-                        image:'https://i.postimg.cc/VL67rFYX/aishwariya.png',
-                        designation:'DEG 2'
+                        name:'Dinesh SriSanth Adari',
+                        image:'https://i.postimg.cc/SKSSxtp7/photo-2024-02-14-16-38-29.jpg',
                     },
                     {
-                        name:'User 3',
-                        image:'https://i.postimg.cc/VL67rFYX/aishwariya.png',
-                        designation:'DEG 3'
+                        name:'Yaswanth Boina',
+                        image:'https://i.postimg.cc/YMxXjCw2/IMG-1137.jpg',
                     }
                 ]
             }
