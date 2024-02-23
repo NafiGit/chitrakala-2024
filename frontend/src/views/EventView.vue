@@ -24,7 +24,7 @@ onMounted(()=>{
     eventIndex.value = routes.params.index
     eventTitle.value = routes.params.title
     eventData.value = EventsData[eventIndex.value]
-    document.title = `${eventTitle.value} - Cine Carnival`
+    document.title = `${eventTitle.value} - Chitrakala`
 })
 
 </script>

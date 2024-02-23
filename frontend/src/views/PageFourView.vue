@@ -115,7 +115,7 @@ const handleChildrenNavItemClick = (role) =>{
 }
 
 onMounted(()=>{
-    document.title = `Team - Cine Carnival`
+    document.title = `Team - Chitrakala`
 })
 
 </script>

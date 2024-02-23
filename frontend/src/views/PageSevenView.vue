@@ -15,7 +15,7 @@ import PartnersView from './PartnersView.vue';
             <RouterLink to="/team" class="font-extrabold font-montserrat text-[#a02c43]">The Group</RouterLink>
             <span class="text-[13px] tracking-wide ml-6 -mt-3 text-gray-300 relative font-thin font-merriweather">Click here to view team</span>
           </h2>
-          <p class="mb-3 font-montserrat flex justify-center xxl:text[37px] text-[23px] max-sm:text-[23px] max-ssm:text-[21px] max-vsm:text-[21px] ">"Cine Carnival: Cinematic Kaleidoscope"  transports attendees through film history. From timeless classics to cutting-edge technology, it explores diverse genres, embraces emerging trends, and sparks creativity. An immersive celebration where every frame tells a story, fostering a love for filmmaking and honoring the art that transcends time.
+          <p class="mb-3 font-montserrat flex justify-center xxl:text[37px] text-[23px] max-sm:text-[23px] max-ssm:text-[21px] max-vsm:text-[21px] ">"Chitrakala: Colour Surabhi Up!"  transports attendees through art history. From timeless classics to modern-esque concepts, it explores diverse genres, embraces emerging trends, and sparks creativity. An immersive celebration where every canvas tells a story, fostering a love for art which transcends time.
           </p>
         </div>
         <!-- //TODO: Replace this img with team img -->
