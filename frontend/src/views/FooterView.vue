@@ -2,7 +2,7 @@
   <footer class="bg-gray-200">
     <div class="navbar">
       <div class="nav-child logo">
-        <img src="https://previews.dropbox.com/p/thumb/ACJ5Zc6aY1kbEaRNMJ1poi2QB3-lj8QGb9p7Y1qVkJ9P6GpTaSY9KdDbzyDajDw7nKPj4zhCXF0ps6_5FTVqDKQR-oTXsLn__NDDmfKtPbxNonYdOlsi4PSXVqOi9oyVYmmOHRt14SfNytu6-QnkBJt7bf6m_LMfZbMDmCV-ec0q68szpI_e-f5-L-y1unB8FAgdzTV3FceX6vcZ1A82mm8wSgD7P7AU74N9y13hYGfESphcMNBwQL6a4QgMsznu6OVa4JYuYg9SuTpj-9dTa-bUrQU2a0IzsQgjtx070L2a_DdxrQtkfTryFx5-YGOEGoOkNHKz_vgDc5y12Mk-t_S-/p.png" alt="Logo" />
+        <img src="https://www.dropbox.com/scl/fi/ea8o1uhz4s005h1oizhy0/Chitrakala.png?rlkey=rx5pux8kkxm1dyvoq8gh3cido&raw=1" alt="Logo" />
       </div>
       
       <div class="nav-child address flex flex-col relative lg:-ml-14">
