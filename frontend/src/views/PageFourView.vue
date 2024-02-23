@@ -13,7 +13,7 @@ const teams = [
                 members:[
                     {
                         name:'B.GANDHI NAIDU',
-                        image:'https://previews.dropbox.com/p/thumb/ACJr2nCMtHI6PayKZyAvfF7Tr-9DDf78GD_jdo1A1Io6W1As2e-2_5VRuFxuFY13BNOWTFYfvxrUaesyBDYL_RcZLsgvPDaINi_i3DGL_K9tseETgqTaws9SwzWfpcQky3dMtEb__3lf3BsoEVPSY_N9YejL1PtYH9T-bMmJ6ferd-4weW3YW0QZh2mn7bmnO4tAmui63as2a577llNLW8GhVeL1G29x3XcMOAfwNo7Z4Is8xUywcF9O25wPufEq1g8MP4YqFx6XVjIRaV86vQSAa0EFHqc4X9zqgIZodQ5X6PdkuM4wITnOBKawv2n0KXLyPd8aIGz2zkzirMQTtbuM/p.jpeg',
+                        image:'https://i.ibb.co/n3z2DR5/gandhi-img.jpg',
                     }
                     
                 ]
@@ -28,27 +28,27 @@ const teams = [
                 members:[
                 {
                         name:'L.HARSHA',
-                        image:'https://previews.dropbox.com/p/thumb/ACLUTqy5z0CFNwpoQuiwGOvWbU1c3AUegCIYcrR5ZuHCQ2bFjzYHe4paVwf71xrP4kFGgPF4XQC-lLvl43_C1SkVU3Z_rCUNt_ydPzW338vBaxFEul2YjqmpYqpP3EW2dBfR49w7a7zNtM3Lqqz8DMokPi0J0Epm2S7IR6dPwUH4GjXU_DP8zKhtw2KfsG8NWuJ1bnY_XRDyzSgWVn55TCLPGZPDuR7zXFRMIaqho-Y0q-NWbQyqGttkI-js1XNhxImyYRw9mOkfpJbrofcWhK-NxFkizjDA0lueVkuulcA51QJ6GxTBc88OIk4vgiQNl6oFs-s55lo25duhBIsPq2Ul_nU1VRcpjUyjTkZk47hcaemJBMeWOhnOV1xF0HlnkCH1H-8SuLeJF6V95vMnjtjF/p.jpeg',
+                        image:'https://i.ibb.co/FnW4LrQ/harsha-img.jpg',
                         designation:'DEG 1'
                     },
                     {
                         name:'P.NITHIN',
-                        image:'https://previews.dropbox.com/p/thumb/ACK3Dk0meivWUJswc2U_qE6ICr1hnScFtCrYlUkYoLIyy4Gzc8JZqaZXVCtT05theI-zW76ahBfOTQN-HTeJwvvU6cZ3-XdIgh3GLtE4sEg4ogDI1IqIg3-aKk3GnKGHasAFZGxcA63LIwZrYRUkgNOqOeXKbWYKdj7PP85WogZ-_6UpkH1fEe2I-ZgvgR4EvC0fmjYiHWVVA69Y_LazMcFMov-B-ynqr8E7MMQu5IDbXj1ZyHuT0HJAlHA94ap5Jrjo5-hItPf-3ax85LUD5rQxh08tpb2PWUsM0ER_k9hHWe4N-hOaaBw8gLRy5huLEJajyDTCk2AZlb8yDgbDZc26/p.jpeg',
+                        image:'https://i.ibb.co/WtVsNCZ/nithin-img.jpg',
                         designation:'DEG 2'
                     },
                     {
                         name:'D.SAITEJA',
-                        image:'https://previews.dropbox.com/p/thumb/ACIr2yubsOL_BlNElyVEtKz4vjrY6V8VkpxlYZTIRpKlgjI67Mjoz7HlRsirIhSi11iETzWYTN-sU7tfr7BmBiezc_b6Y7uqWr0Bg6B1paF84v0JCvqKypIiSEbmAo97Gszbo_idehstfXZB6NmlSPYa7VHuOsTmmThnD6X1QLaWtVfL0YK5OiXTVvBx_NtGqRrEsA-9pFMO4GHTphjJQcYzKKku_tvzF0zBOfUV7m6iaHxiKGm-dLFVPODohGtrbUrMBb6Uv0-GWa3J0aKoS1r6QhUrCp0jEP3cfzAFj6rh2qK88QKjtvImfdmcGu56nu5NDbCdiLMdNinJ9q0Moj3T/p.jpeg',
+                        image:'https://i.ibb.co/mcF7rNJ/sai-img.jpg',
                         designation:'DEG 3'
                     },
                     {
                         name:'D.SURESH',
-                        image:'https://previews.dropbox.com/p/thumb/ACKeJoKAUK8ZXzTO5d_mnj8XkUkmSElKmNlMMuwuVmAHxrzBGE7OU8XHxyK-ttp7hqv4d4Rh-X300Bs4kMl2LJDkdCl8Nh_mMjci6Q8H4AhYFjz0mq8X3BwngEIx-a9CJlIEZKlhlOLewY6czGoXRP2fOU8sua1d_sH2_cjvUCT7EwGRXujzfhDRUQOKM4PnUvT2mxIXE56RKcZ-GCVXzNRnj2YsEzVppMvcsRrIxp8E80k-3eB7V9jjNl-bH7dd9sWTDNdUjCADMQJEBxDKZWuo10ac4yctncWWhETnRcn-Pyjd_lGMxCYdeg9Esv1o8efGlAFxSO7FVJmqErXWbv3O/p.jpeg',
+                        image:'https://i.ibb.co/VqmzJhZ/suresh-img.jpg',
                         designation:'DEG 3'
                     },
                     {
                         name:'K.SWAROOP',
-                        image:'https://previews.dropbox.com/p/thumb/ACIvXOjXQe_tfqIuqCvbMO1y8UcJxyStOYtmvP5q-InURJZBxuBXW8meS2VzGkYB4h1jOE8sFyBF6xY-KxUDpvDv-xFbHmd3FuhPBAC-lq6oiMUhvN_bPWISwjTV5OWWHv-TcwFyu23lsuiwlgVALLm5orOv7JEPRMzJiTZA0M_C7gky29Ba3D9cU-w6RoNOElq_UTJKpMAr0AFSefDm72raJKXH14yeFOIwnJRrqWTV4mY8_Px8zRNRnHzsijm-VoaJtInrKhg51PBAKgPTTnsrpL5Z3bqtUXBSqYqTibTKuAJOVjVjSQU1vOC1K1sEG3Fhk5EtueT9bdDClWiB-TK9/p.jpeg',
+                        image:'https://i.ibb.co/7QQmYd7/swaroop-img.jpg',
                         designation:'DEG 3'
                     }
                 ]
@@ -74,7 +74,7 @@ const teams = [
                     },
                     {
                         name:'Nahfid Nissar',
-                        image:'https://previews.dropbox.com/p/thumb/ACJRkUcqkQbDZha6mqiAwS_3nZKZMck5mIerZ4NShZGW3CH3OP4Le6evchX4LvQvqUvTJ-7ukaon9EOtKN4s2_bDZTHhpPjPjmf-rdE2MuJH0KeKHv95oypDUU0W-SEKfiuVI2PY1Rbt_tGFMc1IT6YS3bTiG2k6ExCV2CP5pug_1gviZonTMKDt6lscX_NmSO8GpJXmcArFd8QZVWsLbrm-qXtXfWrxrMzHFN4mb_AXteOlM3xosoRi0xaBU-4xHW_2Ie4Tl11zpEQdrFI1ZqYgNZGdckNcjWCRXBE4dOSjJcatYcYC97ubyU8T7wGE2vHntNveZByzQJ_UmIg-_N-b/p.jpeg',
+                        image:'https://i.ibb.co/7VVf9c8/nafi-kerela-min.jpg',
                     }
                 ]
             }

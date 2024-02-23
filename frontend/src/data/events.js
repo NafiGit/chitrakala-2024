@@ -4,7 +4,7 @@ export const EventsData = [
     title: 'Pencil Sketching',
     poster: '',
     image:
-      'https://previews.dropbox.com/p/thumb/ACIoJLEKkiAbOqWdeQxKeVGChuRVXWdon7Y3Jv8mEbNWHe653z1ytFQBq7c9PicWNv2g_xMzFPqi02dozZts6t1oaxzhfNKmmE9wlMqPgE3J-akq8CAbf3qIYtndKyNNTif_alGrtF8Thqbe_RNj54b87vriMgGn8cVnZpDZUeDCEvSNxCblLU5InZb8zxNxJBcSe3wzjPlz3ru_btIsSkyrVsL0NM31G-P92lqySoGskIXXYWptFalJHHuVhmnNKj6BQcWu6GUJw7BcrFO8xAOMiROUnnjwuYbaYYfE0h-ZvBCcvEKLqv3dN60Stm3Ig3qX8CORNRcEwVp5756ifBc5/p.jpeg',
+      'https://i.ibb.co/k9pc2c3/Pencil-Sketching.jpg',
     description: 'The theme of the competition is restricted to “NATURE”. ',
     category: 'LCH - Liberal, Creative and Hobby ',
     type: 'InContest',
@@ -25,7 +25,7 @@ export const EventsData = [
     title: 'Glass Painting',
     poster: '',
     image:
-      'https://previews.dropbox.com/p/thumb/ACKWyV1LLWE7k9-RA8XPL3wlbMTuNyVMQ5iww52RuByZEKDBMpa8QE7-Tv2Z_LYO2QjIx9XMnkMMH2b8IxlKogHXnWHp2sLIcca-tcn8d8tN2Hh7wFEAPQP34jhqEObmTqupH7VGWdJU1R3h3ln3lg1XLmf1tLVyZn-opCveFHkiNPohhalLRYj2XGYXrsQwUUYWICb8t7ZZFkz-o0LdRZPyzHGd1_ZrtuhxJVoB7udVWVY-Y_7a1H5rCKWJFV874LC62cvPlv3_6OQ91ZiD_rNuWTvKdDuNP5rUBd9dHTE4LxaTFGdPihPeB6Sa_4SMKXg_xa-awN-sUEAvXrjCuAYH/p.jpeg',
+      'https://i.ibb.co/mGBfnC3/Class-painting.jpg',
     description: 'Description for Event 2',
     category: 'LCH - Liberal, Creative and Hobby ',
     duration: '2 hours',
@@ -51,7 +51,7 @@ export const EventsData = [
     poster: '',
     duration: '2 hours',
     image:
-      'https://previews.dropbox.com/p/thumb/ACKMehzv_J-3UcZHvpYUGVjSs1wp_4NyWHip3fRT2OWwyqBHsBbOg--AlkWds9oLJuIi8iZwG9Qov4HW0qQ7Ay1JnlrRCgbrNW05FMjW2q8UXkXBOaZCU1ozXY2XJxjnYF0E6JoxiJ9C6CA7jGCPjsjMWw5Y_Qy8H5lc_60n4i0gVTYdyoSUMmvK1qSUonSLU1R2FgyzWO2tCMq6OIjBn5VogpwyM8p3xeP45eNwzuMI3jBf5Hkvf0k9_j6QUESRMplnyEoMBWXQjkcu6gDp7BbilR63VEYJ79odo8rkilSLxqp65OdeTDPoWFxCwFxs-pgE_WWRi1sPDz6_DRvnLyAE/p.jpeg',
+      'https://i.ibb.co/rGDMFXv/Rangoli.jpg',
     description: 'The theme of the competition is restricted to “viksit Bharat” ',
     category: 'LCH - Liberal, Creative and Hobby ',
     type: 'Contest',
@@ -74,7 +74,7 @@ export const EventsData = [
     title: 'Theme Painting',
     poster: '',
     image:
-      'https://previews.dropbox.com/p/thumb/ACLxtwMsTKP9dlbFdqgfuqj9idOUNNRib1mtT6WB4N1W6iv4PenMxZq15GtCHOOfBOWCZXTMbNc7PkSbX2HnHO0wXNl0uSpBtokftiFIoHs-ziBda8I3caN7tNz_XQzbvuifRnpiZugG4zO9YrSNvpvV766ePbmkPzBux6bLh-paF26H22DHez-cP1j3AhrF9ePqC1zEcq2QQoxYURflsyroF9L8UAgdXFpKSLPw5J9Tbf_uLf4J6A0pmr39uGSsYKNWrhCrKkGzC8Voo9GHfBHw2G_b-zlw9kTt4vu0BKdV5kKo7yQYBKQdH_IrAt9PvrhMFczhTAu48JLAC6cHL9OI/p.jpeg',
+      'https://i.ibb.co/2ynr6Kz/theme-painting.jpg',
     description: 'Description for Event 4',
     category: 'LCH - Liberal, Creative and Hobby ',
     duration: '2 hours',

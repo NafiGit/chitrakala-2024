@@ -19,7 +19,7 @@ import PartnersView from './PartnersView.vue';
           </p>
         </div>
         <!-- //TODO: Replace this img with team img -->
-        <img class="md:w-[40%] max-md:order-1 max-ssm:w-[85%] w-[70%] saturate-0 bg-blend-color-burn" src="https://previews.dropbox.com/p/thumb/ACKjKIoTnGU_Oau31qw4reYecpWZZW9z1S2Gyy946xtSxOwtlzLuKar4rxuY4g5C_EwzsjRYF6WzjN_3z71xMbTq368WuY1ibgesSn6vi0sCeCQfdxINVJvbFuiioiEg6WXfisuCrKHQV4RpomJeTNbCYKmsEnTCjmQ9bTREo73JJaryohLJEuKNY23Nk5zNmivOAlvDESRxOF2SWD3t3FpS-a1iEXY_diTsQ0K0iByScaWBxC5PeKmM5hOmyrBCQOWvk2-1DTQk6VIFEOAwFxnzTzB3l6FIO4RTZkJnkIO45z2cWVoldU2iTuNOETgqoMMLagJPg5nIE4eUuNkIPfY1/p.jpeg" alt="temp"/>
+        <img class="md:w-[40%] max-md:order-1 max-ssm:w-[85%] w-[70%] saturate-0 bg-blend-color-burn" src="https://www.dropbox.com/scl/fi/8odz4fh2w19i92fouzgik/group-pic.jpg?rlkey=r5ge94pbvgaxs2pb4yoircpim&raw=1" alt="temp"/>
       </div>
       <div class="md:pt-24 pt-16">
         <GalleryView />
